@@ -7,10 +7,12 @@ I'll use github mostly to store and organize my notes, and to publish great code
 
 ## 🛠️ Skills
 
-- **Languages**:
+- **Programming Languages**:
   -Python, SQL, Solidity
 - **Tools**:
   -Git, Visual Studio Code (VSC), Various Database Management Systems (DBMS)
+- **Languages**:
+  -English, Italian
 - **Proficient in writing compelling texts and poetry**:
   - Ability to craft engaging and persuasive written content, including poetry and prose.
 - **Classical guitar and saxophone player with strong music theory knowledge**:
