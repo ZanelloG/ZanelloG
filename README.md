@@ -40,16 +40,22 @@ versatile candidate across various fields such as technology, arts, education, a
 
 ## 🌱 Actually working at
 
-- !!!
+- Opening a Philosophy & Tech on-line Blog
+- Popping up on Twitter with a community interested in Philosophy and New Technologies
+- Programming bot's to manage social contents
+- Learning Solidity and Blockchains
 
 
 ## 📫 Contact me on...
 
 - **Email**: giosuezanello1@gmail.com
 - **Email2**: zanello.giosue@gmail.com
-- **LinkedIn**: working on it
-- **Twitter**: !!!
+- **Linkedin**: None, I'm still working on it. Updating my progress daily!
+- **Twitter**: None, I'm still working on it. Updating my progress daily!
 
+## My Personal Blog on Tech And Philosophy
+
+- **BLog**: None, I'm still working on it. Updating my progress daily!
 
 Feel free to text me even if driven by curiosity! 😊
 
