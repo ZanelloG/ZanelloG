@@ -51,7 +51,7 @@ versatile candidate across various fields such as technology, arts, education, a
 - **Email**: giosuezanello1@gmail.com
 - **Email2**: zanello.giosue@gmail.com
 - **Linkedin**: None, I'm still working on it. Updating my progress daily!
-- **Twitter**: None, I'm still working on it. Updating my progress daily!
+- **Twitter/X**: https://x.com/giosue_zanello
 
 ## My Personal Blog on Tech And Philosophy
 
