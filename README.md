@@ -55,7 +55,7 @@ versatile candidate across various fields such as technology, arts, education, a
 
 ## My Personal Blog on Tech And Philosophy
 
-- **Blog**: neuralepisteme.blogspot.com (scroll for the English version of the articles) 
+- **Blog**: https://neuralepisteme.blogspot.com (scroll for the English version of the articles) 
 
 Feel free to text me even if driven by curiosity! 😊
 
