@@ -10,11 +10,11 @@ I'll use github mostly to store and organize my notes, and to publish great code
 - **Programming Languages**:
   -Python, SQL, Solidity
 - **Tools**:
-  -Git, Visual Studio Code (VSC), Various Database Management Systems (DBMS)
+  -Git, Visual Studio Code (VSC), Various Database Management Systems (DBMS), Ganache, Linux Fan!.
 - **Languages**:
   -English, Italian
-- **Proficient in writing compelling texts and poetry**:
-  - Ability to craft engaging and persuasive written content, including poetry and prose.
+- **Experienced in managing NFT products**:
+    -I'm working with creators to garantee relevance to their own intellectual creation remunerative on the ETH Blockchain.
 - **Classical guitar and saxophone player with strong music theory knowledge**:
   - Accomplished musician proficient in classical guitar and saxophone, with a deep understanding of music theory.
 - **Literary and musical cultural expertise**:
@@ -25,8 +25,6 @@ I'll use github mostly to store and organize my notes, and to publish great code
   - Familiarity with strategies and tools used in digital marketing to promote products or services effectively.
 - **Experienced in podcast recording, editing, and production**:
   - Hands-on experience in creating and producing podcasts, including recording, editing, and post-production tasks.
-- **Capable of managing complex intellectual and practical situations**:
-  - Strong analytical and problem-solving skills, adept at handling challenging intellectual and practical scenarios.
 - **Artistic attitude with a knack for innovative ideas**:
   - Creative mindset with a talent for generating original and innovative concepts across various artistic disciplines.
 - **Studying cinematography and art analysis**:
@@ -44,6 +42,7 @@ versatile candidate across various fields such as technology, arts, education, a
 - Popping up on Twitter with a community interested in Philosophy and New Technologies
 - Programming bot's to manage social contents
 - Learning Solidity and Blockchains
+- Making my own businnes managing NFT's contracts and develpoment.
 
 
 ## 📫 Contact me on...
