@@ -50,11 +50,13 @@ versatile candidate across various fields such as technology, arts, education, a
 - **Email**: giosuezanello1@gmail.com
 - **Email2**: zanello.giosue@gmail.com
 - **Linkedin**: None, I'm still working on it. Updating my progress daily!
-- **Twitter/X**: https://x.com/giosue_zanello
+- **Twitter/X**: [@giosue_zanello](https://x.com/giosue_zanello)
+- **Patreon**: [SecureTech](https://www.patreon.com/SecureTech)
+- **Discord** [SecureTech-Lab](https://discord.gg/FakM7CdK)
 
 ## My Personal Blog on Tech And Philosophy
 
-- **Blog**: https://neuralepisteme.blogspot.com (scroll for the English version of the articles) 
+- **Blog**: [NE-Neural Episteme](https://neuralepisteme.blogspot.com) (scroll for the English version of the articles) 
 
 Feel free to text me even if driven by curiosity! 😊
 
